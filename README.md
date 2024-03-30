@@ -1,5 +1,5 @@
 <!--Project Name-->
-<h1>MP3 Music Player App</h1>
+<h1>Frequency Player App</h1>
 
 <!--Introduction-->
 <h2>Introduction</h2>
@@ -37,4 +37,8 @@ The Frequency Player empowers users to delve into the world of sound frequencies
   <li>📃 Create a Custom Playlist</li>
   <li>🔃 Load a Custom Playlist</li>
 </ul>
-
+<!--Screenshots (GIFs/PNGs)-->
+<h2>Screenshots</h2>
+<p align="center">
+  <img src="https://github.com/curadProgrammer/Java-Swing-MusicPlayer/blob/main/Screenshot_38.png" alt="Music Player App Screenshot">
+</p>
