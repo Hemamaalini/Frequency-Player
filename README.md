@@ -3,8 +3,14 @@
 
 <!--Introduction-->
 <h2>Introduction</h2>
-<p>In this project, you'll learn how to build a MP3 Music Player App in Java! You can check out the full tutorial <a href="https://www.youtube.com/watch?v=xf0aH2K3oJ4">here</a>
-  , where I carefully go over the logic flow so that you can understand how this project is coded the way it was.
+<p>The Frequency Player is an innovative Java IntelliJ application designed to revolutionize how users interact with sound frequencies. With a user-friendly interface, it offers a seamless platform for exploring frequencies, creating personalized playlists, and engaging with a vibrant community through feedback mechanisms.
+
+Key Features:
+Frequency Loading: Easily load frequencies in MP3 format, with titles automatically generated based on the frequency.
+Playlist Creation: Create and manage playlists to organize your favorite frequencies according to your preferences.
+Feedback System: Share your experiences and insights with others through the feedback system, fostering a collaborative environment.
+
+The Frequency Player empowers users to delve into the world of sound frequencies, offering a rich and immersive listening experience while fostering community interaction and collaboration.
 </p>
 
 <!--Technologies/Frameworks-->
@@ -20,8 +26,8 @@
 <h2>Features</h2>
 <ul>
   <li>🎶 Play an MP3 File (Song)</li>
-  <li>🎙 Display Title of Song</li>
-  <li>👤 Display Artist of Song</li>
+  <li>🎙 Display Title of frequency(benefits of frequency)</li>
+  <li>👤 Display Artist of the frequency</li>
   <li>⏳ Display the Length of the Song</li>
   <li>⏪ Playback Functionality</li>
   <li>⏸ Pause Song</li>
@@ -32,9 +38,3 @@
   <li>🔃 Load a Custom Playlist</li>
 </ul>
 
-
-<!--Screenshots (GIFs/PNGs)-->
-<h2>Screenshots</h2>
-<p align="center">
-  <img src="https://github.com/curadProgrammer/Java-Swing-MusicPlayer/blob/main/Screenshot_38.png" alt="Music Player App Screenshot">
-</p>
