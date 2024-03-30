@@ -1,0 +1,8 @@
+The Frequency Player is an innovative Java IntelliJ application designed to revolutionize how users interact with sound frequencies. With a user-friendly interface, it offers a seamless platform for exploring frequencies, creating personalized playlists, and engaging with a vibrant community through feedback mechanisms.
+
+Key Features:
+Frequency Loading: Easily load frequencies in MP3 format, with titles automatically generated based on the frequency.
+Playlist Creation: Create and manage playlists to organize your favorite frequencies according to your preferences.
+Feedback System: Share your experiences and insights with others through the feedback system, fostering a collaborative environment.
+
+The Frequency Player empowers users to delve into the world of sound frequencies, offering a rich and immersive listening experience while fostering community interaction and collaboration.

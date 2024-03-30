@@ -1,0 +1,9 @@
+ Hellooo!!! 
+
+ I'm Hemamaalini currently pursuing B.Sc, Computer Science final year, Glad to say that I've implemented my final year project as Frequency Player.
+
+ This project is done in Java on Intellij IDE. It took nearly 3 months to complete.
+ 
+ Many of my friends experienced this solfeggio frequecies and gained a lot. These frequencies are the key to concentrate while we're in meditation. 
+
+ And also the different types of frequencies will activate the different nerves in our body. Try it Now!!
